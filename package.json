@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "webpack",
     "start": "babel-node ./src",
     "start-dev": "grunt"
   },
